@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gasolinazo</string>
+    <string name="app_name1">Survey</string>
+    <string name="gas_price">Precio del Litro de Gasolina</string>
+    <string name="marca">Marca de tu Auto</string>
+    <string name="modelo">Modelo</string>
+    <string name="kilom">Kilometraje</string>
+    <string name="auto">Auto</string>
+    <string name="comments">Qué te gusta o no te gusta de tu auto</string>
+    <string name="autonuevo">Qué auto te gustaría adquirir</string>
+    <string name="dale">Dale</string>
+
+</resources>
